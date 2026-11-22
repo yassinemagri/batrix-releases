@@ -1,0 +1,16 @@
+{
+  "name": "batrix",
+  "productName": "BATRIX",
+  "version": "1.0.0",
+  "private": true,
+  "description": "BATRIX - Battery Health & Monitoring Application",
+  "keywords": [
+    "batrix",
+    "battery-monitoring",
+    "battery-health",
+    "electron",
+    "react"
+  ],
+  "author": "Yassine Magri",
+  "license": "MIT"
+}
